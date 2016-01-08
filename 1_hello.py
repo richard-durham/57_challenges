@@ -32,4 +32,4 @@ hello_name(get_name())
 # Challenge - same object but use NO variables
 print "Now without variables!  :) \n"
 
-print "Yo, what do they call you? %s", raw_input(':'), "?  Cool name, nice to meet you!"
+print "Yo, what do they call you?", raw_input(':'), "?  Cool name, nice to meet you!"
